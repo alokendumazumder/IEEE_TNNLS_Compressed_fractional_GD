@@ -126,5 +126,5 @@ For questions or collaborations, please contact:
 
 ---
 
-> *This code accompanies the paper "Fractional Gradient Descent with Matrix Stepsizes for Non-Convex Optimisation" (TechRxiv Preprint, 2025).*
+> *This code accompanies the paper "Fractional Gradient Descent with Matrix Stepsizes for Non-Convex Optimisation" accepted at IEEE Transactions of Neural Networks and Learning Systems (IEEE TNNLS, IF: 8.9, COre: A*).*
 
